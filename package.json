@@ -1,0 +1,13 @@
+{
+  "name": "@somehow-digital/editorconfig",
+  "description": "Recommended `.editorconfig` settings for `somehow.digital` projects.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "repository": "somehow-digital/editorconfig",
+  "bin": "./cli.js",
+  "dependencies": {
+    "cpy": "^9.0.1",
+    "meow": "^11.0.0"
+  }
+}
